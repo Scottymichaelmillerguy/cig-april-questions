@@ -1,0 +1,212 @@
+/***************************Element Selectors*******************************/
+body{
+    background-color: #032d3e;
+    color:white;
+    text-align: center;
+    
+    
+}
+
+
+table{
+    margin: auto;
+    
+}
+
+h1{
+    color:white;
+    display: inline-block;
+    
+}
+a{
+    color:white;
+    text-decoration: none;
+}
+td{
+    padding:10px 20px 10px 20px;
+}
+footer{
+    padding: 30px;
+    text-align: center;
+    font-size: 50px;
+    text-decoration:underline;
+}
+
+/*************************Class Selectors**********************************/
+
+.imgq{
+    padding-right:50px;
+}
+.logo{
+    width: 10%;
+    height:10%;
+    padding-top:10px;
+    position:relative;
+    bottom: 200px;
+    
+    
+}
+.shower-div{
+    display:inline-block;
+    position: relative;
+    left:880px;
+    
+    
+    
+}
+.shower-img{
+    max-width: 70%;
+}
+
+.questions{
+    position:relative;
+    bottom: 200px;
+    right:100px;
+}
+.cig{
+    display:inline-block;
+    position:relative;
+    right:430px;
+    bottom:140px;
+    padding-bottom: 50px;;
+ 
+}
+.cig-img{
+    height:140px;
+    width:700px;
+}
+.question-logo{
+    position:relative;
+    right: 250px;
+    height: 100px;
+}
+
+.question2-logo{
+    position:relative;
+    right: 650px;
+    height: 100px;
+}
+.poem-pic{
+    height: 500px;
+    float:left;
+    padding-right: 50px;
+
+}
+
+.poem{
+   
+    text-align: left;
+    margin:auto;
+    padding-right: 250px;
+}
+.ramadan-img{
+    width:800px;
+    float:left;
+}
+.q2h1{
+    display:inline-block;
+}
+.standard-logo{
+    display: inline-block;
+    height:100px;
+    
+    
+}
+.left{
+    text-align: left;
+}
+.q3img{
+    width:50%;
+    float: left;
+    padding-right: 50px;
+}
+.q3-content{
+    line-height: 1.4;
+}
+.source1{
+    display: inline-block;
+}
+.source2{
+    display:inline-block;
+}
+.source3{
+    display:inline-block;
+}
+.taiwan{
+    text-align: left;
+}
+.taiwan-img{
+    float:left;
+    height: 400px;
+    width:600px;  
+
+}
+.ramadan-origin-img{
+    float:left;
+    height: 400px;
+    width:600px;
+    padding-right: 50px;  
+}
+
+.pbj{
+    width:35%;
+    
+}
+.Mousse{
+    width:35%;
+}
+.caramel{
+    width:35%;
+}
+.twinkie{
+    width:35%;
+    position:relative;
+    bottom:37px;
+    height:400px;
+    
+}
+.arbor{
+    width:500px;
+    height:300px;
+    
+}
+.velociraptor{
+    width:500px;
+    height:300px;
+}
+.earth{
+    width:500px;
+    height:300px;
+}
+.penguin{
+    width:500px;
+    height:300px;
+}
+
+.q10-footer{
+    position: relative;
+    bottom: 400px;
+    left:400px;
+}
+.center-footer{
+    text-align: center;
+}
+.float-left-pad50{
+    float:left;
+    padding-right:50px;
+}
+.reduce-size{
+    height:30%;
+    width: 50%;
+}
+.kings-day{
+    float: left;
+    padding: 50px;
+    width:20%;
+    padding-top:0px;
+}
+.netherlands{
+    float:right;
+    padding-left:50px;
+}
+
