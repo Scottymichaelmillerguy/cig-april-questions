@@ -1,7 +1,7 @@
 /***************************Element Selectors*******************************/
 body{
-    background-color: #032d3e;
-    color:white;
+    background-color: #FDF7C3;
+    color: #349ed8;
     text-align: center;
     
     
@@ -14,12 +14,12 @@ table{
 }
 
 h1{
-    color:white;
+    color: #349ed8;
     display: inline-block;
     
 }
 a{
-    color:white;
+    color: #349ed8;
     text-decoration: none;
 }
 td{
@@ -32,55 +32,47 @@ footer{
     text-decoration:underline;
 }
 
+button{
+    width:100px;
+    border-radius: 12px;
+    
+}
+
+button:hover{
+    
+    background-color:#349ed8;
+}
+
 /*************************Class Selectors**********************************/
 
+.parent-back{
+    text-align: left;
+}
 .imgq{
     padding-right:50px;
 }
 .logo{
-    width: 10%;
-    height:10%;
-    padding-top:10px;
-    position:relative;
-    bottom: 200px;
-    
+    padding-top:20px;
+    width:30%;
+    height:170px;
+    display: inline-block; 
     
 }
-.shower-div{
+.april-showers{
+    padding-top:20px;
+    height:170px;
+    width:20%;
     display:inline-block;
-    position: relative;
-    left:880px;
-    
-    
-    
-}
-.shower-img{
-    max-width: 70%;
-}
-
-.questions{
-    position:relative;
-    bottom: 200px;
-    right:100px;
 }
 .cig{
+    padding-top:20px;
+    height:170px;
+    width:30%;
     display:inline-block;
-    position:relative;
-    right:430px;
-    bottom:140px;
-    padding-bottom: 50px;;
- 
 }
-.cig-img{
-    height:140px;
-    width:700px;
+.parent{
+    text-align: center;
 }
-.question-logo{
-    position:relative;
-    right: 250px;
-    height: 100px;
-}
-
 .question2-logo{
     position:relative;
     right: 650px;
@@ -90,6 +82,7 @@ footer{
     height: 500px;
     float:left;
     padding-right: 50px;
+    padding-bottom: 50px;
 
 }
 
@@ -113,7 +106,9 @@ footer{
     
 }
 .left{
-    text-align: left;
+    background-color: #FDF7C3;
+    color: #349ed8;
+    text-align: center;
 }
 .q3img{
     width:50%;
@@ -147,7 +142,9 @@ footer{
     width:600px;
     padding-right: 50px;  
 }
-
+.ramadan-img{
+    padding-right:50px;
+}
 .pbj{
     width:35%;
     
@@ -210,3 +207,9 @@ footer{
     padding-left:50px;
 }
 
+.taiwan-img{
+    padding-right: 50px;
+}
+.pad-bottom{
+    padding-bottom: 50px;
+}
