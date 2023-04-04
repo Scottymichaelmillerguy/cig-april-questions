@@ -1,7 +1,10 @@
 /***************************Element Selectors*******************************/
 body{
-    background-color: #FDF7C3;
-    color: #349ed8;
+    
+    background-image: url('../images/plain-background-image.jpg');
+    background-size: cover;
+    
+    color: #052d3d;
     text-align: center;
     
     
@@ -14,12 +17,12 @@ table{
 }
 
 h1{
-    color: #349ed8;
+    color: #052d3d;
     display: inline-block;
     
 }
 a{
-    color: #349ed8;
+    color: #052d3d;
     text-decoration: none;
 }
 td{
@@ -44,7 +47,12 @@ button:hover{
 }
 
 /*************************Class Selectors**********************************/
-
+.images{
+    display:block;
+}
+.container{
+    text-align: left;
+}
 .parent-back{
     text-align: left;
 }
@@ -72,7 +80,13 @@ button:hover{
 }
 .parent{
     text-align: center;
+    
 }
+/*.table{
+    background-color: #FDF7C3; 
+    color:#349ed8; 
+} */
+
 .question2-logo{
     position:relative;
     right: 650px;
@@ -106,8 +120,8 @@ button:hover{
     
 }
 .left{
-    background-color: #FDF7C3;
-    color: #349ed8;
+    
+    color: #052d3d;
     text-align: center;
 }
 .q3img{
